@@ -1,3 +1,4 @@
+sample-framework
 *~
 .\#*
 *.o
@@ -5,4 +6,6 @@
 *.ply
 moc_*
 qrc_*
+*.stash
+*.bzr
 Makefile
